@@ -1,4 +1,4 @@
-![Screenshot 2025-04-05 040553](https://github.com/user-attachments/assets/a4901ac2-cc6c-442a-92fc-4412d3ff716e)# Neve-Store-Data-Analysis(Interactive E-commerce Analytics Dashboard using POWER-BI)
+# Neve-Store-Data-Analysis(Interactive E-commerce Analytics Dashboard using POWER-BI)
 ## Project Objective
 To analyze Nevestore’s transactional data using Power BI, focusing on key metrics like sales trends, product performance, customer segmentation, and regional distribution. The objective is to build interactive dashboards that support data-driven decisions and optimize business operations.
 
