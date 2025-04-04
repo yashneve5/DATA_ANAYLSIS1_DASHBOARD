@@ -40,7 +40,7 @@ Created key metrics like Total Sales, Profit, Quantity, and AOV using DAX.
 - Dashboard Design
 Developed interactive visuals with filters for region, category, quarter, and payment type.
 
--Validation & Export
+- Validation & Export
 Verified data accuracy, finalized visuals, and exported the PBIX and screenshots for deployment.
 
 ## Dashboard
@@ -48,16 +48,17 @@ Verified data accuracy, finalized visuals, and exported the PBIX and screenshots
 ![Screenshot 2025-04-05 031654](https://github.com/user-attachments/assets/bf07ae59-9edc-4d99-b103-3753c8385824)
 
 # Project Insights
-Insights
-Sales and Profit peaked in Q2, with Printers and Bookcases as the top-performing sub-categories.
+- Sub-category analysis revealed that Printers generated the highest profit margin, while some categories had high sales volume but lower profitability.
 
-UPI and Credit Card were the most used payment modes across regions.
+- Monthly profit trends showed consistent growth with minor dips in off-season months.
 
-California and New York contributed the highest revenue.
+- Customer segmentation identified a small group of high-value customers responsible for a significant revenue share.
 
-High-value customers drove a significant portion of total sales.
+- State-wise performance indicated underperforming regions that may benefit from targeted marketing.
 
-Average Order Value (AOV) was consistent but varied slightly by state and category.
+- Payment method trends highlighted UPI and Cards as dominant, suggesting a shift away from cash-based transactions.
 
 
+# Conclusion
+- The dashboard effectively visualizes Nevestore’s core KPIs using Power BI. Through robust data modeling and DAX-based measures, it enables actionable insights into customer behavior, product performance, and regional trends—supporting data-driven business decisions and operational optimization.
 
