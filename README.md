@@ -18,4 +18,6 @@ To analyze Nevestore’s transactional data using Power BI, focusing on key metr
 - What is the sales distribution across customer segments or demographics?
 - How does product performance differ based on region or time period?
 
+- Dashboard Interaction <a href="https://github.com/yashneve5/DATA_ANAYLSIS1_DASHBOARD/blob/main/YASHNEVE.pbix">View Dashboard</a>
+
 
