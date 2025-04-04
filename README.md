@@ -45,7 +45,7 @@ Verified data accuracy, finalized visuals, and exported the PBIX and screenshots
 
 ## Dashboard
 
-![Uploading Screenshot 2025-04-05 040553.png…](https://github.com/yashneve5/DATA_ANAYLSIS1_DASHBOARD/blob/main/Screenshot%202025-04-05%20031654.png)
+![Screenshot 2025-04-05 031654](https://github.com/user-attachments/assets/bf07ae59-9edc-4d99-b103-3753c8385824)
 
 
 
