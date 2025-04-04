@@ -47,6 +47,17 @@ Verified data accuracy, finalized visuals, and exported the PBIX and screenshots
 
 ![Screenshot 2025-04-05 031654](https://github.com/user-attachments/assets/bf07ae59-9edc-4d99-b103-3753c8385824)
 
+# Project Insights
+Insights
+Sales and Profit peaked in Q2, with Printers and Bookcases as the top-performing sub-categories.
+
+UPI and Credit Card were the most used payment modes across regions.
+
+California and New York contributed the highest revenue.
+
+High-value customers drove a significant portion of total sales.
+
+Average Order Value (AOV) was consistent but varied slightly by state and category.
 
 
 
