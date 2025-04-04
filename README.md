@@ -20,4 +20,29 @@ To analyze Nevestore’s transactional data using Power BI, focusing on key metr
 
 - Dashboard Interaction - <a href="https://github.com/yashneve5/DATA_ANAYLSIS1_DASHBOARD/blob/main/YASHNEVE.pbix">View Dashboard</a>
 
+## Process
+Project Process
+- Data Import
+Loaded Nevestore sales data into Power BI from structured sources.
+
+- Data Cleaning
+Removed duplicates, handled nulls, and standardized formats using Power Query.
+
+- Data Transformation
+Created calculated columns (e.g., Profit, AOV) and date hierarchies for analysis.
+
+- Data Modeling
+Built a star schema with defined relationships between fact and dimension tables.
+
+- DAX Measures
+Created key metrics like Total Sales, Profit, Quantity, and AOV using DAX.
+
+- Dashboard Design
+Developed interactive visuals with filters for region, category, quarter, and payment type.
+
+Validation & Export
+Verified data accuracy, finalized visuals, and exported the PBIX and screenshots for deployment.
+
+
+
 
